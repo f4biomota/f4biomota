@@ -4,7 +4,7 @@
      can make our lives easier.
 - 🌱 I’m currently learning ... DOCKER, REACT and REACT NATIVE... I think!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... SOON! 
 
 <!---
 f4biomota/f4biomota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
